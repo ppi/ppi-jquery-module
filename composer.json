@@ -1,7 +1,6 @@
 {
     "name": "ppi/jquery-module",
     "description": "jQuery module for PPI2",
-    "type": "component",
     "homepage": "https://github.com/ppi/ppi-jquery-module",
     "license": "MIT",
     "keywords": ["php", "framework", "ppi", "module", "jquery"],
@@ -26,8 +25,5 @@
     "require": {
         "ppi/framework": "2.1.x-dev",
         "components/jquery": "dev-master"
-    },
-    "extra": {
-        "component-name": "jquery"
     }
 }
